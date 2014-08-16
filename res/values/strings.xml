@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PreWear</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="simple_button_title">Simple</string>
+    <string name="simple_button_message">Soy una notificacion simple</string>
+    <string name="image_button_title">Icono</string>
+    <string name="image_button_message">HOLA CAMPUS PARTY</string>
+    <string name="voz_button_title">Voz</string>
+    <string name="voz_button_message">Soy un botón que responde :3</string>
+	<string-array name="respuestas">
+        <item>Si</item>
+        <item>No</item>
+        <item>Te odio</item>
+    </string-array>
+</resources>
